@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Memory game\Memory game\bin\Debug\net8.0-windows\Memory game.exe
+C:\Users\User\source\repos\Memory game\Memory game\bin\Debug\net8.0-windows\Memory game.deps.json
+C:\Users\User\source\repos\Memory game\Memory game\bin\Debug\net8.0-windows\Memory game.runtimeconfig.json
+C:\Users\User\source\repos\Memory game\Memory game\bin\Debug\net8.0-windows\Memory game.dll
+C:\Users\User\source\repos\Memory game\Memory game\bin\Debug\net8.0-windows\Memory game.pdb
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory_game.Form1.resources
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.AssemblyInfo.cs
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.dll
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\refint\Memory game.dll
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.pdb
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory game.genruntimeconfig.cache
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\ref\Memory game.dll
+C:\Users\User\source\repos\Memory game\Memory game\obj\Debug\net8.0-windows\Memory g.E9B9EABA.Up2Date
